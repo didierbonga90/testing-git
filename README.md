@@ -1,2 +1,2 @@
 # testing-git
-This reop is made to test my new account
+This repo is made to test my new account
